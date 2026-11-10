@@ -1,16 +1,16 @@
-## Hi there 👋
+# Dawid Piszczatowski
 
-<!--
-**dawid-piszczatowski/dawid-piszczatowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd line customer support for a B2B SaaS platform. Based in Poland, working fully remote.
 
-Here are some ideas to get you started:
+**What I do**
+- Triage, debug and reproduce customer issues before they reach engineering
+- Write escalations developers can act on without going back to the customer
+- Run API checks in Postman across production environments
+- Use Claude to build small internal tools for monitoring, ticket research and data-safe testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm learning**
+- SQL on Supabase (Postgres), starting with billing-style data: see [supabase-sql-practice](https://github.com/dawid-piszczatowski/supabase-sql-practice)
+
+**Languages:** Polish (native), English (C2), Spanish (C1)
+
+[LinkedIn](https://linkedin.com/in/dawid-noel-piszczatowski)
